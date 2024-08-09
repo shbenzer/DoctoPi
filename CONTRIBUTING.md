@@ -71,7 +71,6 @@ local development.
     $ mkvirtualenv doctopi
     $ cd doctopi/
     $ pip install -r requirements_dev.txt
-    $ python setup.py develop
     $ python -m pip install .
     ```
 
